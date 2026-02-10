@@ -1,12 +1,12 @@
-package brixo.c1;
+package com.brixo_sandbox.Brixo;
 
-import org.springframework.web.bind.annotation.Mapping;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@restController
+@RestController
 public class BrixoController {
-@mapping("/proyecto")
-public String proyecto(){
+    @GetMapping("/proyecto")
+    public String proyecto(){
     return "Proyecto Brixo";
     
 }
