@@ -1,10 +1,10 @@
-package com.brixo_sandbox.Brixo;
+package com.ejemplo_poo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BrixoApplicationTests {
+class EjemploPooApplicationTests {
 
 	@Test
 	void contextLoads() {

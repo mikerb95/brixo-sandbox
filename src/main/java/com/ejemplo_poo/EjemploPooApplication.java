@@ -1,13 +1,13 @@
-package com.brixo_sandbox.Brixo;
+package com.ejemplo_poo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BrixoApplication {
+public class EjemploPooApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BrixoApplication.class, args);
+		SpringApplication.run(EjemploPooApplication.class, args);
 	}
 
 }

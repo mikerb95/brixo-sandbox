@@ -7,10 +7,10 @@
         <version>4.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.brixo-sandbox</groupId>
-    <artifactId>Brixo</artifactId>
+    <groupId>com.ejemplo-poo</groupId>
+    <artifactId>ejemplo-POO</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Brixo</name>
+    <name>ejemplo-POO</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
