@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class proyectocontroller {
-    @RequestMapping("/")
+    @RequestMapping("/ proyecto Clas0")
     public String proyecto() {
         return "hola mundo";
     }
