@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class EjemploPooController {
+public class ProyectoController {
     @GetMapping("/proyecto")
     public String proyecto(){
         return "Proyecto Ejemplo POO";
