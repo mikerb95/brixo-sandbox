@@ -7,10 +7,10 @@
         <version>4.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.ejemplo-poo</groupId>
-    <artifactId>ejemplo-POO</artifactId>
+    <groupId>proyecto_cl</groupId>
+    <artifactId>proyecto-clase0</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ejemplo-POO</name>
+    <name>proyecto-clase0</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
